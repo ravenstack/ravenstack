@@ -35,7 +35,7 @@ $ cat fun_fact.txt
 
 <div align="center">
 
-| skill |
+| tool |
 |:---|
 | `python` |
 | `java` |
@@ -47,7 +47,6 @@ $ cat fun_fact.txt
 | `cybersecurity` |
 | `cloud` |
 | `cozy game dev` |
-
 
 </div>
 
