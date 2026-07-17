@@ -36,7 +36,7 @@ $ cat fun_fact.txt
 <div align="center">
 
 | skill |
-|:---|:---:|
+|:---|
 | `python` |
 | `java` |
 | `c++` |
