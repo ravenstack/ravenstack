@@ -34,9 +34,9 @@ $ cat fun_fact.txt
 ### $ ls -la projects/
 
 ```
->  binary-exploitation-studies
->  cozy-game-dev (private)
->  healthcare_analytics_RAG
+> binary-exploitation-studies
+> cozy-game-dev (private)
+> healthcare_analytics_RAG
 ```
 
 ---
@@ -49,7 +49,7 @@ $ cat fun_fact.txt
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ravenstack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=DA70D6&text_color=FF1493&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ravenstack&theme=dark&hide_border=true&background=0d1117&stroke=DA70D6&ring=FF1493&fire=9D4EDD&currStreakLabel=DA70D6)
+![GitHub Streak](https://streak-stats.demolab.com?user=ravenstack&theme=dark&hide_border=true)
 
 </div>
 
