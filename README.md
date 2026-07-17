@@ -31,12 +31,14 @@ $ cat fun_fact.txt
 
 ---
 
-### $ ls -la projects/
+### $ git log --oneline
 
 ```
-> binary-exploitation-studies
-> cozy-game-dev (private)
-> healthcare_analytics_RAG
+1a2b3c4 learning something new
+d5e6f7g building things
+h8i9j0k breaking things
+l1m2n3o fixing things
+p4q5r6s shipping things
 ```
 
 ---
@@ -48,8 +50,6 @@ $ cat fun_fact.txt
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ravenstack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=DA70D6&icon_color=FF1493&text_color=DA70D6&rank_icon=github)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ravenstack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=DA70D6&text_color=FF1493&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ravenstack&theme=dark&hide_border=true)
 
 </div>
 
