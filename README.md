@@ -35,19 +35,19 @@ $ cat fun_fact.txt
 
 <div align="center">
 
-| skill | status |
+| skill |
 |:---|:---:|
-| `python` | know it |
-| `java` | know it |
-| `c++` | know it |
-| `javascript` | know it |
-| `react` |  know it |
-| `linux` | know it |
-| `assembly` | learning |
-| `web hacking` | learning |
-| `binary exploitation` | learning |
-| `cloud` | learning |
-| `cozy game dev` | learning |
+| `python` |
+| `java` |
+| `c++` |
+| `javascript` |
+| `react` |
+| `linux` |
+| `assembly` |
+| `cybersecurity` |
+| `cloud` |
+| `cozy game dev` |
+
 
 </div>
 
