@@ -31,14 +31,12 @@ $ cat fun_fact.txt
 
 ---
 
-### $ git log --oneline
+### $ ls -la projects/
 
 ```
-1a2b3c4 learning something new
-d5e6f7g building things
-h8i9j0k breaking things
-l1m2n3o fixing things
-p4q5r6s shipping things
+>  binary-exploitation-studies
+>  cozy-game-dev (private)
+>  healthcare_analytics_RAG
 ```
 
 ---
