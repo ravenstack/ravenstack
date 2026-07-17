@@ -31,21 +31,27 @@ $ cat fun_fact.txt
 
 ---
 
-### $ status --current
+### $ git log --oneline
+
+```
+a1b2c3 learning binary exploitation
+d4e5f6 building a cozy game engine
+g7h8i9 studying cloud architecture
+j0k1l2 diving into assembly
+m2n3o4 breaking things with web hacking
+```
+
+---
+
+### $ github --stats
 
 <div align="center">
 
-| tool |
-|:---|
-| `python` |
-| `java` |
-| `c++` |
-| `javascript` |
-| `react` |
-| `linux` |
-| `assembly` |
-| `cybersecurity` |
-| `cloud` |
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ravenstack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ravenstack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ravenstack&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
