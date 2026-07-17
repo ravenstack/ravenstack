@@ -37,7 +37,6 @@ $ cat fun_fact.txt
 >  binary-exploitation-studies
 >  cozy-game-dev (private)
 >  healthcare_analytics_RAG
-
 ```
 
 ---
@@ -46,11 +45,11 @@ $ cat fun_fact.txt
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ravenstack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ravenstack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=DA70D6&icon_color=FF1493&text_color=DA70D6&rank_icon=github)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ravenstack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ravenstack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=DA70D6&text_color=FF1493&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ravenstack&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=ravenstack&theme=dark&hide_border=true&background=0d1117&stroke=DA70D6&ring=FF1493&fire=9D4EDD&currStreakLabel=DA70D6)
 
 </div>
 
