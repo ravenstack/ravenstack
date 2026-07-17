@@ -46,7 +46,6 @@ $ cat fun_fact.txt
 | `assembly` |
 | `cybersecurity` |
 | `cloud` |
-| `cozy game dev` |
 
 </div>
 
