@@ -18,23 +18,27 @@ $ cat fun_fact.txt
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7209B7?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF69B4)
+![React](https://img.shields.io/badge/React-9D4EDD?style=for-the-badge&logo=react&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-1A1A2E?style=for-the-badge&logo=assemblyscript&logoColor=FF1493)
+![Linux](https://img.shields.io/badge/Linux-DA70D6?style=for-the-badge&logo=linux&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-7209B7?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
 ---
 
-### $ git log --oneline
+### $ ls -la projects/
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+```
+>  binary-exploitation-studies
+>  cozy-game-dev (private)
+>  healthcare_analytics_RAG
+
+```
 
 ---
 
