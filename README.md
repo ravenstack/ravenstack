@@ -1,7 +1,6 @@
-
 ```bash
 $ whoami
-> risa · fullstack dev · data engineer · security enthusiast
+> fullstack dev · data engineer · security enthusiast
 
 $ cat about.txt
 > building things · breaking things · learning things 🏴
@@ -34,26 +33,21 @@ $ cat fun_fact.txt
 
 ### $ status --current
 
-| skill | level |
-|---|---|
-| data engineering | `██████░░░░` 60% |
-| binary exploitation | `████░░░░░░` 40% |
-| web hacking | `█████░░░░░` 50% |
-| cozy game dev | `██░░░░░░░░` 20% |
-| linux | `████░░░░░░` 40% |
-| cloud | `███░░░░░░░` 30% |
-
----
-
-### $ github --stats
-
 <div align="center">
 
-![ravenstack's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravenstack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravenstack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ravenstack&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+| skill | status |
+|:---|:---:|
+| `python` | know it |
+| `java` | know it |
+| `c++` | know it |
+| `javascript` | know it |
+| `react` |  know it |
+| `linux` | know it |
+| `assembly` | learning |
+| `web hacking` | learning |
+| `binary exploitation` | learning |
+| `cloud` | learning |
+| `cozy game dev` | learning |
 
 </div>
 
