@@ -33,13 +33,8 @@ $ cat fun_fact.txt
 
 ### $ git log --oneline
 
-```
-a1b2c3 learning binary exploitation
-d4e5f6 building a cozy game engine
-g7h8i9 studying cloud architecture
-j0k1l2 diving into assembly
-m2n3o4 breaking things with web hacking
-```
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
