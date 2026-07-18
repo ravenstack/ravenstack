@@ -64,7 +64,7 @@ Technology Learning Community | Security-Focused Platform
 > Content: Memory exploitation · Binary exploitation · System internals
 > Purpose: Community hub for tech learning
 > Stack: React · JavaScript · Tailwind CSS
-> Status: In development
+> Status: Live
 ```
 
 ---
@@ -85,8 +85,6 @@ Production Discord Bot Ecosystem | Multi-Server Architecture
 > Scale: 12+ interconnected servers · 6000+ active users
 > Status: Actively maintained
 ```
-
----
 
 ---
 
