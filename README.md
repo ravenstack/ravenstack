@@ -34,7 +34,7 @@ $ cat fun_fact.txt
 ### $ ls -la projects/
 
 ```
->  binary-exploitation-studies
+>  binary-exploitation-studied
 >  cozy-game-dev (private)
 >  healthcare_analytics_RAG
 ```
