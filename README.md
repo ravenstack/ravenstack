@@ -14,28 +14,24 @@ $ cat fun_fact.txt
 ### $ stack --list
 <div align="center">
 
-**Languages & Core**  
-![Python](https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7209B7?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF69B4)
-![Assembly](https://img.shields.io/badge/Assembly-1A1A2E?style=for-the-badge&logo=assemblyscript&logoColor=FF1493)
+![Python](https://img.shields.io/badge/Python-intermediate-DA70D6?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-intermediate-FF1493?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-intermediate-7209B7?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/C++-basics-FF1493?style=flat-square&logoColor=white)
+![C](https://img.shields.io/badge/C-basics-DA70D6?style=flat-square&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-basics-000000?style=flat-square&logoColor=white)
 
-**Frontend & Web**  
-![React](https://img.shields.io/badge/React-9D4EDD?style=for-the-badge&logo=react&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-intermediate-DA70D6?style=flat-square&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-intermediate-FF1493?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-intermediate-7209B7?style=flat-square&logoColor=white)
 
-**Data & Orchestration**  
-![Dagster](https://img.shields.io/badge/Dagster-00A8E1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTExLjk5IDJDNi41IDIgMiA2LjQ4IDIgMTJzNC41IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyek05LjUgMTVsLTMuNS0zLjVoN3YtMmgtN2wzLjUtMy41eiIvPjwvc3ZnPg==&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FCC624?style=for-the-badge&logo=duckdb&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-learning-DA70D6?style=flat-square&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-learning-FF1493?style=flat-square&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-learning-7209B7?style=flat-square&logoColor=white)
 
-**DevOps & Security**  
-![Linux](https://img.shields.io/badge/Linux-DA70D6?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-intermediate-FF1493?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-basics-DA70D6?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-intermediate-7209B7?style=flat-square&logoColor=white)
 
 </div>
 
